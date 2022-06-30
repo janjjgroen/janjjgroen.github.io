@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jan J. J. Groen"
 title_separator          : "-"
 name                     : &name "Jan J. J. Groen"
-description              : &description "personal description"
+description              : &description "personal description TEST"
 url                      : https://janjjgroen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "janjjgroen/janjjgroen.github.io"
@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Jan J. J. Groen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Economist with n interest in global macroeconomics, econometrics and machine learning. Talks about #inflation, #economy, #interestrates #macrofinance."
   location         : "New York City, U.S."
-  employer         :
+  employer         : "Economic Research Advisor, Federal Reserve Bank of New York"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MVqxDDMAAAAJ&hl=en"
   email            :
