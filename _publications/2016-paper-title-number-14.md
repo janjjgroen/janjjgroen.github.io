@@ -2,7 +2,7 @@
 title: "Revisiting Useful Approaches to Data-Rich Macroeconomic Forecasting"
 collection: publications
 permalink: /publication/2016-paper-title-number-14
-date: 2016
+date: 2016-08-01
 venue: 'Communications in Statistics & Data Analysis'
 citation: 'Groen, J.J.J. and G. Kapetanios (2016). &quot;Revisiting Useful Approaches to Data-Rich Macroeconomic Forecasting&quot; <i>Communications in Statistics & Data Analysis</i>. 100, pp. 221-239.'
 ---
