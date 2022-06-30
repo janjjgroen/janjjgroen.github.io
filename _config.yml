@@ -81,13 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jan J. J. Groen"
+  name             : "Dr. Jan J. J. Groen"
   avatar           : "profile.png"
-  bio              : "Economist with n interest in global macroeconomics, econometrics and machine learning. Talks about #inflation, #economy, #interestrates #macrofinance."
+  bio              : "Economist with an interest in global macroeconomics, econometrics and machine learning. Talks about #inflation, #economy, #interestrates #macrofinance."
   location         : "New York City, U.S."
-  employer         : "Economic Research Advisor, Federal Reserve Bank of New York"
+  employer         : "Federal Reserve Bank of New York"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MVqxDDMAAAAJ&hl=en"
+  repec            : "https://ideas.repec.org/e/pgr1.html'
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Jan-Groen-5"
   uri              :
@@ -97,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "janjjgroen"
+  github           : #"janjjgroen"
   google_plus      :
   keybase          :
   instagram        :
