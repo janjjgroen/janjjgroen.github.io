@@ -65,10 +65,10 @@ facebook:
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-linkedin:
-  type                   : # Person or Organization (defaults to Person)
+social:
+  type                   : "RePEc"
   name                   : # If the user or organization name differs from the site's name
-  links: "https://www.linkedin.com/in/jan-j-j-groen-654b0815"   #"<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jan-j-j-groen-654b0815" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jan-j-j-groen-654b0815?trk=profile-badge">Jan J. J. Groen</a></div>"
+  links: "https://ideas.repec.org/e/pgr1.html"
               
 
 
@@ -88,7 +88,6 @@ author:
   employer         : "Federal Reserve Bank of New York"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MVqxDDMAAAAJ&hl=en"
-  repec            : "https://ideas.repec.org/e/pgr1.html'
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Jan-Groen-5"
   uri              :
