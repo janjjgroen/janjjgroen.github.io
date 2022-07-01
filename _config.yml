@@ -176,7 +176,7 @@ kramdown:
 
 # Collections
 collections:
-  Working Papers:
+  workingpapers:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -210,10 +210,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _workingpapers
   - scope:
       path: ""
-      type: Working Papers
+      type: workingpapers
     values:
       layout: single
       author_profile: true
