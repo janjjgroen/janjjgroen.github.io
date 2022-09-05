@@ -23,4 +23,4 @@ I hold a Ph.D. in Economics from the [Erasmus University Rotterdam](https://www.
 
 Disclaimer
 ======
-Any opinions or views expressed on this website are my own. It does not represent any investment advice for TD Securities clients and does not represent the opinions of the Federal Reserve Bank of New York, the Federal Reserve System, the Bank of England, the Dutch Central or the Euro Area System of Central Banks.
+Any opinions or views expressed on this website are my own. It does not represent any investment advice for TD Securities clients and does not represent the opinions of the Federal Reserve Bank of New York, the Federal Reserve System, the Bank of England, the Dutch Central Bank or the Euro Area System of Central Banks.
