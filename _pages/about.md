@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am the Chief U.S. Macro Strategist for TD Securities. Based in NYC, I head the firm's U.S. economics research and lead its efforts to map U.S. and global research outputs into implications for the U.S. and global economies and markets.  
+I am the Chief U.S. Macro Strategist for [TD Securities](https://www.tdsecurities.com/). Based in NYC, I head the firm's U.S. economics research and lead its efforts to map U.S. and global research outputs into implications for the U.S. and global economies and markets.  
 
 Before taking up my current position, I was an Economic Research Advisor in the Research Group at the [Federal Reserve Bank of New York](https://www.newyorkfed.org/research). There I was the lead advisor on modelling developments in global financial markets and of global drivers of U.S. inflation and economic growth, and as part of this I developed and head the production of the [Global Supply Chain Pressure Index](https://www.newyorkfed.org/research/policy/gscpi) and the [Oil Price Dynamics Report](https://www.newyorkfed.org/research/policy/oil_price_dynamics_report). I also contributed to policy debates and advised senior management of the New York Fed. Earlier in my tenure at the NY Fed, I was head of the U.S. trade forecast and was part of the model-based nowcasting team focussing on U.S. inflation and growth forecasting.
 
