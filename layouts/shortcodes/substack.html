@@ -1,0 +1,17 @@
+{{ with .Get "url" }}
+  {{ with resources.GetRemote . }}
+    {{ with .Err }}
+      {{ warnf "%s" . }}
+    {{ else }}
+      {{ with .Content | transform.Unmarshal }}
+        {{ with .channel.item }}
+          {{ range first 1 . }}
+            {{ with .pubDate }}
+              {{ dateFormat "2006-01-02" . }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

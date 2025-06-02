@@ -1,0 +1,123 @@
+baseURL: "https://janjjgroen.github.io/" 
+title: Jan J. J. Groen
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Publications
+          url: publications/
+          weight: 1 
+        - name: Working Papers
+          url: workingpapers/
+          weight: 2
+        - name: Macro Market Notes
+          url: MMN/
+          weight: 3
+        - name: More Market/Policy Views
+          url: marketpolicyviews/
+          weight: 4
+#        - name: Data
+#          url: data/
+#          weight: 4 
+#        - name: Blog
+#          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+#          weight: 6
+
+params:
+    description: "This website hosts Jan J. J. Groen's research papers, curriculum vitae, and contact information."
+    author: Jan J. J. Groen
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["publications","workingpapers","MMN","marketpolicyviews"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Dr Jan J. J. Groen
+          subtitle: "I am a Founder & Independent Economist at Macro Market Notes. Until recently I was the Chief U.S. Macro Strategist at TD Securities leading market facing research on the U.S. economy and the Federal Reserve. Before that I was an economic research advisor at the New York Fed, and held a number of senior economist positions at the Bank of England. I regularly contribute to the public debate on topical global financial market and macroeconomic issues. My academic research covers macroecconomic forecasting and econometric modeling, global macroeconomics and macrofinance."
+          imageUrl: "Jan_Groen_2022-11-17_nopin.png"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Publications
+              url: publications/
+            - name: Working Papers
+              url: workingpapers/
+            - name: Macro Market Notes
+              url: MMN/
+            - name: More Market/Policy Views
+              url: marketpolicyviews/
+#            - name: Tags
+#              url: tags/
+#            - name: Archive
+#              url: archive/
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:jan.j.j.groen@gmail.com
+#        - name: Location
+#          url: location/
+#        - name: Office Hours
+#          url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=MVqxDDMAAAAJ&hl=en
+#        - name: GitHub
+ #         url: https://github.com/pmichaillat
+        - name: Substack
+          url: https://substack.com/@macromarketnotes
+#        - name: YouTube
+#         url: https://www.youtube.com/@pmichaillat
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/jan-j-j-groen-654b0815
+        - name: Twitter
+          url: https://x.com/jjj_groen
+        - name: Bluesky
+          url: https://bsky.app/profile/jjjgroen.bsky.social
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Jan J. J. Groen"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
