@@ -13,23 +13,17 @@ taxonomies:
 menu:
     main:
         - name: Publications
-          url: publications/
+          url: /publications/
           weight: 1 
         - name: Working Papers
-          url: workingpapers/
+          url: /workingpapers/
           weight: 2
         - name: Macro Market Notes
-          url: mmn/
+          url: /mmn/
           weight: 3
         - name: More Market/Policy Views
-          url: marketpolicyviews/
+          url: /marketpolicyviews/
           weight: 4
-#        - name: Data
-#          url: data/
-#          weight: 4 
-#        - name: Blog
-#          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-#          weight: 6
 
 params:
     description: "This website hosts Jan J. J. Groen's research papers, curriculum vitae, and contact information."
@@ -64,13 +58,13 @@ params:
           imageHeight: 160
           buttons:
             - name: Publications
-              url: publications/
+              url: /publications/
             - name: Working Papers
-              url: workingpapers/
+              url: /workingpapers/
             - name: Macro Market Notes
-              url: mmn/
+              url: /mmn/
             - name: More Market/Policy Views
-              url: marketpolicyviews/
+              url: /marketpolicyviews/
 #            - name: Tags
 #              url: tags/
 #            - name: Archive
