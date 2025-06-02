@@ -19,7 +19,7 @@ menu:
           url: workingpapers/
           weight: 2
         - name: Macro Market Notes
-          url: MMN/
+          url: mmn/
           weight: 3
         - name: More Market/Policy Views
           url: marketpolicyviews/
@@ -47,7 +47,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications","workingpapers","MMN","marketpolicyviews"]
+    MainSections: ["publications","workingpapers","mmn","marketpolicyviews"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -68,7 +68,7 @@ params:
             - name: Working Papers
               url: workingpapers/
             - name: Macro Market Notes
-              url: MMN/
+              url: mmn/
             - name: More Market/Policy Views
               url: marketpolicyviews/
 #            - name: Tags
