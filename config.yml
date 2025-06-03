@@ -28,7 +28,7 @@ menu:
 params:
     description: "This website hosts Jan J. J. Groen's research papers, curriculum vitae, and contact information."
     author: Jan J. J. Groen
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-KR7FK2WCNM"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
