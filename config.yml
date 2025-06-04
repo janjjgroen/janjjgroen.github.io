@@ -31,6 +31,7 @@ params:
     googleAnalyticsID: "G-KR7FK2WCNM"
     DateFormat: "January 2006"
     defaultTheme: light
+    env: production
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
